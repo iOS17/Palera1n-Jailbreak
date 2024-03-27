@@ -1,6 +1,6 @@
-# Palera1n-Jailbreak iOS 17.4 - iOS 15
+# Palera1n-Jailbreak iOS 17.4.1 - iOS 15
 
-The Definitive Guide of Palera1n Jailbreak Tool, iOS 17, iOS 17.1, 17.2 & iOS 17.3 Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
+The Definitive Guide of Palera1n Jailbreak Tool, iOS 17, iOS 17.1, 17.2,17.3 & iOS 17.4 Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
 
 ## Palera1n Jailbreak Guide
 
@@ -12,6 +12,9 @@ This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following t
 ### Brief overview of the Palera1n Jailbreak tool.
 Palera1n is a semi-untethered jailbreak for iOS 11 - 17.1 (theoretically 17.3). The tool was created by Nick Chan (Lead Developer) and the Palera1n team. The tool is based on the checkm8 exploit. This means that the tool is compatible with A11-A8 devices.  The Palera1n jailbreak enables users to customize their iOS devices by installing third-party apps and tweaks. 
 After successfully jailbreaking your device, you can install modern package managers such as Sileo, Zebra, and Cydia. 
+
+Read More : 
+[How to Jailbreak iOS 17 - iOS 17.4.1 via unc0ver Jailbreak?](https://github.com/iOS17/unc0ver-jailbreak)
 
 ### Purpose and benefits of using the tool.
 
