@@ -52,6 +52,8 @@ The jailbreak is semi-tethered, which means it must be re-applied after restarti
 | iOS 17.1 | Yes | * Bluetooth connectivity issues * Some apps may not work properly |
 | iOS 17.2 | Yes | * Minor UI glitches * Face ID may be slow at times |
 | iOS 17.3 | No | * Jailbreak not yet available |
+| iOS 17.4 | No | * Jailbreak not yet available |
+
 
 **Important notes:**
 
