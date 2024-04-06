@@ -18,7 +18,7 @@ Read More :
 
 ### Purpose and benefits of using the tool.
 
-Palera1n is a jailbreak tool for devices with A8-A11(iPhone X) chips running iOS 15.0 and above. It's important to understand the purposes and benefits as well as the potential risks before deciding to jailbreak your device.
+Palera1n is a jailbreak tool for devices with A8-A11(iPhone X) chips running iOS 15.0 and above. It's important to understand the purposes, benefits, and potential risks before deciding to jailbreak your device.
 
 **Purposes:**
 
@@ -46,6 +46,11 @@ The jailbreak is semi-tethered, which means it must be re-applied after restarti
 
 ### iOS 17, iOS 17.1, 17.2 & iOS 17.3 Version Compatibility
 
+Before you start the Palera1n installation process, it's essential to ensure that your device is compatible with the tool. We recommend using an AI-based jailbreak finder tool that can provide accurate, trusted, and up-to-date information regarding jailbreak compatibility for any iDevice, including iOS, iPadOS, tvOS, watchOS, and Apple Watch.
+
+[Check Palera1n Jailbreak Compatibility AI Jailbreak Finder/Checker](https://bit.ly/jailbrakfinder)
+-Tool provided by the Zeejb team-
+
 | iOS Version | Compatible | Known Issues/Limitations |
 |---|---|---|
 | iOS 17.0 | Yes | * Battery drain * Occasional reboots |
@@ -53,6 +58,7 @@ The jailbreak is semi-tethered, which means it must be re-applied after restarti
 | iOS 17.2 | Yes | * Minor UI glitches * Face ID may be slow at times |
 | iOS 17.3 | No | * Jailbreak not yet available |
 | iOS 17.4 | No | * Jailbreak not yet available |
+| iOS 17.4.1 | No | * Jailbreak not yet available |
 
 
 **Important notes:**
