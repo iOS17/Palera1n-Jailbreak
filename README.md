@@ -1,10 +1,14 @@
-# Palera1n-Jailbreak iOS 17.4.1 - iOS 15
+# Palera1n-Jailbreak iOS 17.5.1 - iOS 15 (iOS 18 Status - Soon)
 
-The Definitive Guide of Palera1n Jailbreak Tool, iOS 17, iOS 17.1, 17.2,17.3 & iOS 17.4 Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
+The Definitive Guide of Palera1n Jailbreak Tool, iOS 17, iOS 17.1, 17.2,17.3, 17.4 & iOS 17.5.1 Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
 
 ## Palera1n Jailbreak Guide
 
-This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following this guide, **you will learn** about **its iOS versions and device compatibility**,** how to install it on modern iPhones and iPads, its achievements**, and much more. **This guide contains everything you need to get started, whether you are a beginner or an expert.**
+This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following this guide, **you will learn** about **its iOS versions and device compatibility**,** how to install it on modern iPhones and iPads, its achievements**, and much more. **This guide contains everything you need to start, whether a beginner or an expert.**
+
+**Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 18 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
+
+
 
 ## Introduction
 
