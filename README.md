@@ -6,6 +6,8 @@ The Definitive Guide of Palera1n Jailbreak Tool, iOS 17, iOS 17.1, 17.2,17.3, 17
 
 This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following this guide, **you will learn** about **its iOS versions and device compatibility**,** how to install it on modern iPhones and iPads, its achievements**, and much more. **This guide contains everything you need to start, whether a beginner or an expert.**
 
+**[Palera1n Jailbreak Checker Downloader](https://xina15.com/tools/palera1n/palera1nchecker.php#google_vignette)**
+
 **Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 18 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
 
 
@@ -40,11 +42,11 @@ Explore the iOS ecosystem: Discover third-party apps and tweaks that aren't offi
 ## The Definitive Guide of Palera1n Jailbreak Tool
 
 **Features:**
-Palera1n is a semi-unththered jailbreak tool that supports iOS 11 to 17.3 (with limitations). It's also important to remember that the tool is open-source, which means anyone can use it for educational purposes. Also, the Palera1n uses a bootrom exploit, making it difficult for Apple to patch. This means that upgrading to a newer version of iOS is pointless because this is a hardware bug that Apple cannot easily patch. 
+Palera1n is a semi-untethered jailbreak tool that supports iOS 11 to 17.3 (with limitations). It's also important to remember that the tool is open-source, which means anyone can use it for educational purposes. Also, the Palera1n uses a bootrom exploit, making it difficult for Apple to patch. This means that upgrading to a newer version of iOS is pointless because this is a hardware bug that Apple cannot easily patch. 
 Unlike other iOS 15 to iOS 17 jailbreak tools, palera1n jailbreak supports features like root access, tweak injection, and custom themes.
 
 **How it works:**
-Palera1n uses a vulnerability in the iBoot bootrom, a low-level programme that runs prior to the operating system.
+Palera1n uses a vulnerability in the iBoot bootrom, a low-level program that runs before the operating system.
 This allows Palera1n to inject code that grants root access and activates jailbreaking features.
 The jailbreak is semi-tethered, which means it must be re-applied after restarting the device.
 
@@ -52,7 +54,8 @@ The jailbreak is semi-tethered, which means it must be re-applied after restarti
 
 Before you start the Palera1n installation process, it's essential to ensure that your device is compatible with the tool. We recommend using an AI-based jailbreak finder tool that can provide accurate, trusted, and up-to-date information regarding jailbreak compatibility for any iDevice, including iOS, iPadOS, tvOS, watchOS, and Apple Watch.
 
-[Check Palera1n Jailbreak Compatibility AI Jailbreak Finder/Checker](https://bit.ly/jailbrakfinder)
+[Palera1n Jailbreak Checkcker](https://xina15.com/tools/palera1n/palera1nchecker.php#google_vignette)
+[Check Jailbreak Compatibility AI Jailbreak Finder/Checker](https://bit.ly/jailbrakfinder)
 -Tool provided by the Zeejb team-
 
 | iOS Version | Compatible | Known Issues/Limitations |
@@ -64,11 +67,18 @@ Before you start the Palera1n installation process, it's essential to ensure tha
 | iOS 17.4 | No | * Jailbreak not yet available |
 | iOS 17.4.1 | No | * Jailbreak not yet available |
 
+| iPadOS Version | Compatible | Known Issues/Limitations |
+|---|---|---|
+| iPadOS 17.0 | Yes | * Battery drain * Occasional reboots |
+| iPadOS 17.1 | Yes | * Bluetooth connectivity issues * Some apps may not work properly |
+| iPadOS 17.2 | Yes | * Minor UI glitches * Face ID may be slow at times |
+| iPadOS 18 | Yes | * Work around Stock bug |
+
 
 **Important notes:**
 
-* Palera1n is a semi-tethered jailbreak, meaning you need to re-jailbreak your device using a computer application after every reboot.
-* Jailbreaking can be risky and may void your device's warranty. Always back up your device before proceeding.
+* Palera1n is a semi-tethered jailbreak, meaning you must re-jailbreak your device using a computer application after every reboot.
+* Jailbreaking can be risky and may void your device's warranty. Always backup your device before proceeding.
 * Only use trusted sources for jailbreak tools and instructions.
 
 **Additional information:**
@@ -118,7 +128,7 @@ Once you enter your Mac password, the installation process will begin and the pr
 
 **Running palera1n**
 
-Connect your iDevice in to Mac (USB-A to Lightning cable)
+Connect your iDevice to Mac (USB-A to Lightning cable)
 
 Run palera1n -e thid_should_crash=0
 <img width="697" alt="Palera1n Jailbreak iOS 17 - iOS 15 Installation and Run" src="https://github.com/iOS17/Palera1n-Jailbreak/assets/135683347/55802673-f604-400b-ab75-2bd0c91d867a">
