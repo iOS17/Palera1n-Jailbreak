@@ -1,6 +1,6 @@
-# Palera1n-Jailbreak iOS 17.5.1 - iOS 15 (iOS 18 Status - Soon)
+# Palera1n-Jailbreak iOS 17.5.1 - iOS 15 / iPadOS18, 17 (iOS 18 Status - Soon)
 
-The Definitive Guide of Palera1n Jailbreak Tool, iOS 17, iOS 17.1, 17.2,17.3, 17.4 & iOS 17.5.1 Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
+The Definitive Guide of Palera1n Jailbreak Tool, iOS 17, iOS 17.1, 17.2,17.3, 17.4 17.5.1 & iPadOS 17, 18 Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
 
 ## Palera1n Jailbreak Guide
 
@@ -16,7 +16,8 @@ This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following t
 
 
 ### Brief overview of the Palera1n Jailbreak tool.
-Palera1n is a semi-untethered jailbreak for iOS 11 - 17.1 (theoretically 17.3). The tool was created by Nick Chan (Lead Developer) and the Palera1n team. The tool is based on the checkm8 exploit. This means that the tool is compatible with A11-A8 devices.  The Palera1n jailbreak enables users to customize their iOS devices by installing third-party apps and tweaks. 
+Palera1n is a semi-untethered jailbreak for iOS 11 - 17.1 (theoretically 17.3) / iPadOS 17, iPadOS 18. The tool was created by Nick Chan (Lead Developer) and the Palera1n team. The tool is based on the checkm8 exploit. This means that the tool is compatible with A11-A8 devices.  The Palera1n jailbreak enables users to customize their iOS devices by installing third-party apps and tweaks. 
+
 After successfully jailbreaking your device, you can install modern package managers such as Sileo, Zebra, and Cydia. 
 
 Read More : 
@@ -236,7 +237,85 @@ You'll need to do this every time you rejailbreak your device as well.
 * iPad Air 2
 * iPad mini 4
 
-
+| **Model**                                        | **Model Number** |
+|--------------------------------------------------|------------------|
+| iPad 10.2" 7th Gen (Wi-Fi Only)                  | A2197            |
+| iPad 10.2" 7th Gen (Wi-Fi/Cellular, US/CA)       | A2200            |
+| iPad 10.2" 7th Gen (Wi-Fi/Cellular, Global)      | A2198            |
+| iPad 10.2" 7th Gen (Wi-Fi/Cellular, China)       | A2199            |
+| iPad 10.2" 8th Gen (Wi-Fi Only)                  | A2270            |
+| iPad 10.2" 8th Gen (Wi-Fi/Cellular, US/CA)       | A2428            |
+| iPad 10.2" 8th Gen (Wi-Fi/Cellular, Global)      | A2429            |
+| iPad 10.2" 8th Gen (Wi-Fi/Cellular, China)       | A2430            |
+| iPad 10.2" 9th Gen (Wi-Fi Only)                  | A2602            |
+| iPad 10.2" 9th Gen (Wi-Fi/Cellular, US/CA)       | A2603            |
+| iPad 10.2" 9th Gen (Wi-Fi/Cellular, Global)      | A2604            |
+| iPad 10.2" 9th Gen (Wi-Fi/Cellular, China)       | A2605            |
+| iPad 10.9" 10th Gen (Wi-Fi Only)                 | A2696            |
+| iPad 10.9" 10th Gen (Wi-Fi/Cellular)             | A2757            |
+| iPad 10.9" 10th Gen (Wi-Fi/Cellular, China)      | A2777            |
+| iPad Air 3rd Gen (Wi-Fi Only)                    | A2152            |
+| iPad Air 3rd Gen (Wi-Fi+Cell US/CA)              | A2153            |
+| iPad Air 3rd Gen (Wi-Fi+Cell Global)             | A2123            |
+| iPad Air 3rd Gen (Wi-Fi+Cell China)              | A2154            |
+| iPad Air 4th Gen (Wi-Fi Only)                    | A2316            |
+| iPad Air 4th Gen (Wi-Fi+Cell US/CA)              | A2324            |
+| iPad Air 4th Gen (Wi-Fi+Cell Global)             | A2072            |
+| iPad Air 4th Gen (Wi-Fi+Cell China)              | A2325            |
+| iPad Air 5th Gen (Wi-Fi Only)                    | A2588            |
+| iPad Air 5th Gen (Wi-Fi+Cell)                    | A2589            |
+| iPad Air 5th Gen (Wi-Fi+Cell China)              | A2591            |
+| iPad Air M2 11" (Wi-Fi Only)                     | A2902            |
+| iPad Air M2 11" (Wi-Fi+Cell)                     | A2903            |
+| iPad Air M2 11" (Wi-Fi+Cell China)               | A2904            |
+| iPad Air M2 13" (Wi-Fi Only)                     | A2898            |
+| iPad Air M2 13" (Wi-Fi+Cell)                     | A2899            |
+| iPad Air M2 13" (Wi-Fi+Cell China)               | A2900            |
+| iPad mini 5th Gen (Wi-Fi Only)                   | A2133            |
+| iPad mini 5th Gen (Wi-Fi+Cell US/CA)             | A2126            |
+| iPad mini 5th Gen (Wi-Fi+Cell Global)            | A2124            |
+| iPad mini 5th Gen (Wi-Fi+Cell China)             | A2125            |
+| iPad mini 6th Gen (Wi-Fi Only)                   | A2567            |
+| iPad mini 6th Gen (Wi-Fi/Cell US/Global)         | A2568            |
+| iPad mini 6th Gen (Wi-Fi/Cell China)             | A2569            |
+| iPad Pro 11" (Wi-Fi Only)                        | A1980            |
+| iPad Pro 11" (Wi-Fi/Cellular - US/CA)            | A2013            |
+| iPad Pro 11" (Wi-Fi/Cellular - Global)           | A1934            |
+| iPad Pro 11" (Wi-Fi/Cellular - China)            | A1979            |
+| iPad Pro 12.9" (Wi-Fi Only - 3rd Gen)            | A1876            |
+| iPad Pro 12.9" (Wi-Fi+Cell US/CA - 3rd Gen)      | A2014            |
+| iPad Pro 12.9" (Wi-Fi+Cell Global - 3rd Gen)     | A1895            |
+| iPad Pro 12.9" (Wi-Fi+Cell China - 3rd Gen)      | A1983            |
+| iPad Pro 11" (Wi-Fi Only - 2nd Gen)              | A2228            |
+| iPad Pro 11" (Wi-Fi/Cell US/CA - 2nd Gen)        | A2068            |
+| iPad Pro 11" (Wi-Fi/Cell Global - 2nd Gen)       | A2230            |
+| iPad Pro 11" (Wi-Fi/Cell China - 2nd Gen)        | A2231            |
+| iPad Pro 12.9" (Wi-Fi Only - 4th Gen)            | A2229            |
+| iPad Pro 12.9" (Wi-Fi/Cell US/CA - 4th Gen)      | A2069            |
+| iPad Pro 12.9" (Wi-Fi/Cell Global - 4th Gen)     | A2232            |
+| iPad Pro 12.9" (Wi-Fi/Cell China - 4th Gen)      | A2233            |
+| iPad Pro 11" (Wi-Fi Only - 3rd Gen)              | A2377            |
+| iPad Pro 11" (Wi-Fi/Cell US - 3rd Gen)           | A2301            |
+| iPad Pro 11" (Wi-Fi/Cell Global - 3rd Gen)       | A2459            |
+| iPad Pro 11" (Wi-Fi/Cell China - 3rd Gen)        | A2460            |
+| iPad Pro 12.9" (Wi-Fi Only - 5th Gen)            | A2378            |
+| iPad Pro 12.9" (Wi-Fi/Cell US - 5th Gen)         | A2379            |
+| iPad Pro 12.9" (Wi-Fi/Cell Global - 5th Gen)     | A2461            |
+| iPad Pro 12.9" (Wi-Fi/Cell China - 5th Gen)      | A2462            |
+| iPad Pro 11" (Wi-Fi Only - 4th Gen)              | A2759            |
+| iPad Pro 11" (Wi-Fi/Cell US - 4th Gen)           | A2435            |
+| iPad Pro 11" (Wi-Fi/Cell Global - 4th Gen)       | A2761            |
+| iPad Pro 11" (Wi-Fi/Cell China - 4th Gen)        | A2762            |
+| iPad Pro 12.9" (Wi-Fi Only - 6th Gen)            | A2436            |
+| iPad Pro 12.9" (Wi-Fi/Cell US - 6th Gen)         | A2764            |
+| iPad Pro 12.9" (Wi-Fi/Cell Global - 6th Gen)     | A2437            |
+| iPad Pro 12.9" (Wi-Fi/Cell China - 6th Gen)      | A2766            |
+| iPad Pro M4 11" (Wi-Fi Only)                     | A2836            |
+| iPad Pro M4 11" (Wi-Fi+Cell)                     | A2837            |
+| iPad Pro M4 11" (Wi-Fi+Cell China)               | A3006            |
+| iPad Pro M4 13" (Wi-Fi Only)                     | A2925            |
+| iPad Pro M4 13" (Wi-Fi+Cell)                     | A2926            |
+| iPad Pro M4 13" (Wi-Fi+Cell China)               | A3007            |
 
 
 
