@@ -1,12 +1,12 @@
-# Palera1n-Jailbreak iOS 17.6.1 - iOS 15 / iPadOS18, 17 (iOS 18)
+# Palera1n-Jailbreak iOS 17.6.1 - iOS 15 / iPadOS 18.1 beta 4, 17 (iOS 18)
 
-The Definitive Guide of Palera1n Jailbreak Tool, iOS 17, iOS 17.1, 17.2,17.3, 17.4 17.5.1 & iPadOS 17, 18 beta Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
+The Definitive Guide of Palera1n Jailbreak Tool, iOS 17, iOS 17.1, 17.2,17.3, 17.4 17.5.1 & iPadOS 17, 18, 18.1 beta Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
 
 ## Palera1n Jailbreak Guide
 
 This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following this guide, **you will learn** about **its iOS versions and device compatibility**,** how to install it on modern iPhones and iPads, its achievements**, and much more. **This guide contains everything you need to start, whether a beginner or an expert.**
 
-**[Palera1n Jailbreak Checker Downloader](https://zeejb.com/ai/palera1n-checker/)**
+**[Palera1n Jailbreak Checker Downloader iOS 18.1 beta 4](https://zeejb.com/ai/palera1n-checker/)**
 
 **Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 18 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
 
@@ -16,12 +16,12 @@ This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following t
 
 
 ### Brief overview of the Palera1n Jailbreak tool.
-Palera1n is a semi-untethered jailbreak for iOS 11 - 17.1 (theoretically 17.3) / iPadOS 17, iPadOS 18. The tool was created by Nick Chan (Lead Developer) and the Palera1n team. The tool is based on the checkm8 exploit. This means that the tool is compatible with A11-A8 devices.  The Palera1n jailbreak enables users to customize their iOS devices by installing third-party apps and tweaks. 
+Palera1n is a semi-untethered jailbreak for iOS 11 - 17.1 (theoretically 17.6.1) / iPadOS 17, iPadOS 18, 18.1 beta 4. The tool was created by Nick Chan (Lead Developer) and the Palera1n team. The tool is based on the checkm8 exploit. This means that the tool is compatible with A11-A8 devices.  The Palera1n jailbreak enables users to customize their iOS devices by installing third-party apps and tweaks. 
 
 After successfully jailbreaking your device, you can install modern package managers such as Sileo, Zebra, and Cydia. 
 
 Read More : 
-[How to Jailbreak iOS 17 - iOS 17.4.1 via unc0ver Jailbreak?](https://github.com/iOS17/unc0ver-jailbreak)
+[How to Jailbreak iOS 17 - iOS 17.4.1 & iOS 18.1 beta via unc0ver Jailbreak?](https://github.com/iOS17/unc0ver-jailbreak)
 
 [IOS jailbreak tools and solutions online](https://darkbro.com)
 
@@ -46,11 +46,11 @@ Explore the iOS ecosystem: Discover third-party apps and tweaks that aren't offi
 
 ## The Definitive Guide of Palera1n Jailbreak Tool
 
-[Palera1n Jailbreak iOS 18 Checker Tool](https://bit.ly/Palera1nJailbreakFinder)
+[Palera1n Jailbreak iOS 18 - iPadOS 18.1 beta 4 Checker Tool](https://bit.ly/Palera1nJailbreakFinder)
 
 
 **Features:**
-Palera1n is a semi-untethered jailbreak tool that supports iOS 11 to 17.3 (with limitations). It's also important to remember that the tool is open-source, which means anyone can use it for educational purposes. Also, the Palera1n uses a bootrom exploit, making it difficult for Apple to patch. This means that upgrading to a newer version of iOS is pointless because this is a hardware bug that Apple cannot easily patch. 
+Palera1n is a semi-untethered jailbreak tool that supports iOS/iPadOS 11 to 17.3 (with limitations). It's also important to remember that the tool is open-source, which means anyone can use it for educational purposes. Also, the Palera1n uses a bootrom exploit, making it difficult for Apple to patch. This means that upgrading to a newer version of iOS is pointless because this is a hardware bug that Apple cannot easily patch. 
 Unlike other iOS 15 to iOS 17 jailbreak tools, palera1n jailbreak supports features like root access, tweak injection, and custom themes.
 
 **How it works:**
@@ -58,7 +58,7 @@ Palera1n uses a vulnerability in the iBoot bootrom, a low-level program that run
 This allows Palera1n to inject code that grants root access and activates jailbreaking features.
 The jailbreak is semi-tethered, which means it must be re-applied after restarting the device.
 
-### iOS 17, iOS 17.1, 17.2 & iOS 17.3 Version Compatibility
+### iOS 17, iOS 17.1, 17.2 & iOS 17.6.1 Version Compatibility
 
 Before you start the Palera1n installation process, it's essential to ensure that your device is compatible with the tool. We recommend using an AI-based jailbreak finder tool that can provide accurate, trusted, and up-to-date information regarding jailbreak compatibility for any iDevice, including iOS, iPadOS, tvOS, watchOS, and Apple Watch.
 
@@ -74,6 +74,10 @@ Before you start the Palera1n installation process, it's essential to ensure tha
 | iOS 17.3 | No | * Jailbreak not yet available |
 | iOS 17.4 | No | * Jailbreak not yet available |
 | iOS 17.4.1 | No | * Jailbreak not yet available |
+| iOS 17.5 | No | * Jailbreak not yet available |
+| iOS 17.5.1 | No | * Jailbreak not yet available |
+| iOS 17.6 | No | * Jailbreak not yet available |
+| iOS 17.6.1 | No | * Jailbreak not yet available |
 
 | iPadOS Version | Compatible | Known Issues/Limitations |
 |---|---|---|
@@ -81,6 +85,7 @@ Before you start the Palera1n installation process, it's essential to ensure tha
 | iPadOS 17.1 | Yes | * Bluetooth connectivity issues * Some apps may not work properly |
 | iPadOS 17.2 | Yes | * Minor UI glitches * Face ID may be slow at times |
 | iPadOS 18 | Yes | * Work around Stock bug |
+| iPadOS 18.1 | Yes | * Work around Stock bug |
 
 
 **Important notes:**
@@ -91,21 +96,21 @@ Before you start the Palera1n installation process, it's essential to ensure tha
 
 **Additional information:**
 
-* While Palera1n is compatible with iOS 17.0 to 17.2, it's still under development, and some issues are to be expected.
-* The jailbreak community is actively working on a solution for iOS 17.3, but there's no estimated release date yet.
+* While Palera1n is compatible with iOS 17.6.1 to 18.1, it's still under development, and some issues are to be expected.
+* The jailbreak community is actively working on a solution for iOS 18.1, but there's no estimated release date yet.
 * You can find the latest updates and information about Palera1n on its official GitHub repository: [https://github.com/palera1n/palera1n](https://github.com/palera1n/palera1n)
 
 ## Download Palera1n Jailbreak 
 
 Palera1n releases for PC
 
-[Download Palera1n v2.0.0 beta 7](https://github.com/palera1n/palera1n/releases/)
+[Download Palera1n v2.0.1 ](https://github.com/palera1n/palera1n/releases/)
 
-[Download Palera1n v2.0.0 beta 6: Bakepale](https://github.com/palera1n/palera1n/releases/)
+[Download Palera1n v2.0.1: Bakepale](https://github.com/palera1n/palera1n/releases/)
 
-[Download Palera1n v2.0.0 beta 5: Tumbleweed](https://github.com/palera1n/palera1n/releases/)
+[Download Palera1n v2.0.1 Tumbleweed](https://github.com/palera1n/palera1n/releases/)
 
-[Download Palera1n v2.0.0 beta 4](https://github.com/palera1n/palera1n/releases/)
+[Download Palera1n v2.0.1 beta](https://github.com/palera1n/palera1n/releases/)
 
 
 
