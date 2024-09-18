@@ -8,6 +8,9 @@ This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following t
 
 **[Palera1n Jailbreak Checker Downloader iOS 18.1 beta 4](https://zeejb.com/ai/palera1n-checker/)**
 
+![iOS/iPadOS 18 beta 4 Jailbreak with Palera1n Jailbreak](https://github.com/user-attachments/assets/015da963-deb6-443a-93f1-9ffe3a917611)
+
+
 **Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 18 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
 
 
