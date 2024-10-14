@@ -1,17 +1,17 @@
-# Palera1n-Jailbreak iOS 17.6.1 - iOS 15 / iPadOS 18.1 beta 4, 17 (iOS 18)
+# Palera1n-Jailbreak iOS 17.6.1 - iOS 15 / iPadOS/tvOS 18.1, 17 (iOS 18)
 
-The Definitive Guide of Palera1n Jailbreak Tool, iOS 17, iOS 17.1, 17.2,17.3, 17.4 17.5.1 & iPadOS 17, 18, 18.1 beta Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
+The Definitive Guide of Palera1n Jailbreak Tool, iOS 17, iOS 17.1, 17.2,17.3, 17.4 17.5.1 & iPadOS 17, 18, 18.1 & beta Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
 
 ## Palera1n Jailbreak Guide
 
-This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following this guide, **you will learn** about **its iOS versions and device compatibility**,** how to install it on modern iPhones and iPads, its achievements**, and much more. **This guide contains everything you need to start, whether a beginner or an expert.**
+This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following this guide, **you will learn** about **its iOS versions and device compatibility**,** how to install it on modern iPhones,iPads & TvOS, its achievements**, and much more. **This guide contains everything you need to start, whether a beginner or an expert.**
 
 **[Palera1n Jailbreak Checker Downloader iOS 18.1 beta 4](https://zeejb.com/ai/palera1n-checker/)**
 
 ![iOS/iPadOS 18 beta 4 Jailbreak with Palera1n Jailbreak](https://github.com/user-attachments/assets/015da963-deb6-443a-93f1-9ffe3a917611)
 
 
-**Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 18 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
+**Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 18.1 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
 
 
 
@@ -19,11 +19,12 @@ This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following t
 
 
 ### Brief overview of the Palera1n Jailbreak tool.
-Palera1n is a semi-untethered jailbreak for iOS 11 - 17.1 (theoretically 17.6.1) / iPadOS 17, iPadOS 18, 18.1 beta 4. The tool was created by Nick Chan (Lead Developer) and the Palera1n team. The tool is based on the checkm8 exploit. This means that the tool is compatible with A11-A8 devices.  The Palera1n jailbreak enables users to customize their iOS devices by installing third-party apps and tweaks. 
+Palera1n is a semi-untethered jailbreak for iOS 11 - 17.1 (theoretically 17.6.1) / iPadOS 17, iPadOS 18, 18.1. The tool was created by Nick Chan (Lead Developer) and the Palera1n team. The tool is based on the checkm8 exploit. This means that the tool is compatible with A11-A8 devices.  The Palera1n jailbreak enables users to customize their iOS devices by installing third-party apps and tweaks. 
 
-After successfully jailbreaking your device, you can install modern package managers such as Sileo, Zebra, and Cydia. 
+After successfully jailbreaking your device, you can install modern package managers such as Sileo, Zebra, and Cydia.  
 
 Read More : 
+[How to install 3uTools on MAC, i4Tools - iDevice Manager]
 [How to Jailbreak iOS 17 - iOS 17.4.1 & iOS 18.1 beta via unc0ver Jailbreak?](https://github.com/iOS17/unc0ver-jailbreak)
 
 [IOS jailbreak tools and solutions online](https://darkbro.com)
@@ -32,7 +33,7 @@ Read More :
 
 ### Purpose and benefits of using the tool.
 
-Palera1n is a jailbreak tool for devices with A8-A11(iPhone X) chips running iOS 15.0 and above. It's important to understand the purposes, benefits, and potential risks before deciding to jailbreak your device.
+Palera1n is a jailbreak tool for devices with A8-A11(iPhone X) chips running iOS/iPadOS 15.0 and above(iPadOS18.1). It's important to understand the purposes, benefits, and potential risks before deciding to jailbreak your device.
 
 **Purposes:**
 
@@ -107,13 +108,18 @@ Before you start the Palera1n installation process, it's essential to ensure tha
 
 Palera1n releases for PC
 
-[Download Palera1n v2.0.1 ](https://github.com/palera1n/palera1n/releases/)
+[Download Palera1n v2.0.2 ](https://github.com/palera1n/palera1n/releases/)
 
-[Download Palera1n v2.0.1: Bakepale](https://github.com/palera1n/palera1n/releases/)
+[Download Palera1n v2.0.2: Bakepale](https://github.com/palera1n/palera1n/releases/)
 
-[Download Palera1n v2.0.1 Tumbleweed](https://github.com/palera1n/palera1n/releases/)
+[Download Palera1n v2.0.2 Tumbleweed](https://github.com/palera1n/palera1n/releases/)
 
-[Download Palera1n v2.0.1 beta](https://github.com/palera1n/palera1n/releases/)
+[Download Palera1n v2.0.2 beta](https://github.com/palera1n/palera1n/releases/)
+
+Palera1n v2.0.2 Changes: 
+- iPadOS/tvOS 18.1, bridgeOS 9.1 support (Update checkra1n to 0.1337.3)
+- Fix -p option sometimes getting ignored
+- Fix arm64e detection in normal mode
 
 
 
