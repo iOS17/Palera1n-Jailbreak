@@ -24,7 +24,7 @@ Palera1n is a semi-untethered jailbreak for iOS 11 - 17.1 (theoretically 17.6.1)
 After successfully jailbreaking your device, you can install modern package managers such as Sileo, Zebra, and Cydia.  
 
 Read More : 
-[How to install 3uTools on MAC, i4Tools - iDevice Manager]
+[How to install 3uTools on MAC, i4Tools - iDevice Manager](https://github.com/iOS17/i4Tools)
 [How to Jailbreak iOS 17 - iOS 17.4.1 & iOS 18.1 beta via unc0ver Jailbreak?](https://github.com/iOS17/unc0ver-jailbreak)
 
 [IOS jailbreak tools and solutions online](https://darkbro.com)
