@@ -1,10 +1,10 @@
-# Palera1n-Jailbreak iOS 18.2, 17.7.1 - iOS 15 / iPadOS/tvOS, 17 (iOS 18)
+# Palera1n-Jailbreak iOS 18.4.1, 17.7.6 - iOS 15 / iPadOS/tvOS, 17 (iOS 18)
 
-The Definitive Guide of Palera1n Jailbreak Tool, iOS 17, iOS 17.1, 17.2,17.3, 17.4 17.5.1 & iPadOS 17, 18, 18.1, 18.2 & beta Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
+The Definitive Guide of Palera1n Jailbreak Tool, iOS 17, iOS 17.1, 17.2,17.3, 17.4, 17.5.1 & iPadOS 17, 18, 18.1, 18.2, 18.3, 18.4.1 & upcoming 18.5 beta Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
 
 ## Palera1n Jailbreak Guide
 
-This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following this guide, **you will learn** about **its iOS versions and device compatibility**,** how to install it on modern iPhones,iPads & TvOS, its achievements**, and much more. **This guide contains everything you need to start, whether a beginner or an expert.**
+This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following this guide, **you will learn** about **its iOS versions and device compatibility**,** how to install it on modern iPhones,iPads & TvOS, its achievements**, and much more. **This guide contains everything you need to start, whether you are a beginner or an expert.**
 
 ___________________________________________________________________________________________________
 
