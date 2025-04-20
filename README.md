@@ -91,6 +91,10 @@ Before you start the Palera1n installation process, it's essential to ensure tha
 | iOS 17.6 | No | * Jailbreak not yet available |
 | iOS 17.6.1 | No | * Jailbreak not yet available |
 
+
+| iOS 18.4.1 | No | * Jailbreak not yet available |
+| iOS 18.3 | No | * Jailbreak not yet available |
+
 | iPadOS Version | Compatible | Known Issues/Limitations |
 |---|---|---|
 | iPadOS 17.0 | Yes | * Battery drain * Occasional reboots |
@@ -104,13 +108,13 @@ Before you start the Palera1n installation process, it's essential to ensure tha
 **Important notes:**
 
 * Palera1n is a semi-tethered jailbreak, meaning you must re-jailbreak your device using a computer application after every reboot.
-* Jailbreaking can be risky and may void your device's warranty. Always backup your device before proceeding.
+* Jailbreaking can be risky and may void your device's warranty. You can always back up your device before proceeding.
 * Only use trusted sources for jailbreak tools and instructions.
 
 **Additional information:**
 
 * While Palera1n is compatible with iOS 17.6.1 to 18.1, it's still under development, and some issues are to be expected.
-* The jailbreak community is actively working on a solution for iOS 18.1, but there's no estimated release date yet.
+* The jailbreak community is working on a solution for iOS 18.1, but there's no estimated release date yet.
 * You can find the latest updates and information about Palera1n on its official GitHub repository: [https://github.com/palera1n/palera1n](https://github.com/palera1n/palera1n)
 
 ## Download Palera1n Jailbreak 
@@ -150,9 +154,9 @@ If you're using Windows, see Using [Palen1x instead](https://ios.cfw.guide/using
 
 Open a terminal window
 Run sudo /bin/sh -c "$(curl -fsSL https://static.palera.in/scripts/install.sh)"
-<img width="921" alt="Palera1n Jailbreak for iOS 17 3 and up How to Install" src="https://github.com/iOS17/Palera1n-Jailbreak/assets/135683347/c48a4155-5778-48e7-8b2f-954a5f01b0dd">
+<img width="921" alt=" Palera1n Jailbreak for iOS 17 3 and up How to Install" src="https://github.com/iOS17/Palera1n-Jailbreak/assets/135683347/c48a4155-5778-48e7-8b2f-954a5f01b0dd">
 
-Once you enter your Mac password, the installation process will begin and the progress will be displayed on the screen. # == palera1n-c install script ==
+Once you enter your Mac password, the installation process will begin, and the progress will be displayed on the screen. # == palera1n-c install script ==
 <img width="683" alt="Screenshot 2024-01-24 at 10 34 26" src="https://github.com/iOS17/Palera1n-Jailbreak/assets/135683347/38956f1b-28bb-49a3-8a6d-c601086b62dc">
 
 
@@ -166,7 +170,7 @@ Run palera1n -e thid_should_crash=0
 
 **Make sure your device is plugged in when entering this command**
 
-When ready, press Enter and follow the on screen instructions to enter [DFU mode](https://ios.cfw.guide/faq/#what-is-dfu-mode).
+When ready, press Enter and follow the on-screen instructions to enter [DFU mode](https://ios.cfw.guide/faq/#what-is-dfu-mode).
 
 <img width="697" alt="Palera1n jailbreak palera1n -e thid_should_crash=0 Jailbreak command DFU Mode" src="https://github.com/iOS17/Palera1n-Jailbreak/assets/135683347/80ad11f2-037d-4ba1-96f5-332b6697f8e9">
 
@@ -186,7 +190,7 @@ Run sudo /bin/sh -c "$(curl -fsSL https://static.palera.in/scripts/install.sh)"
 **Running palera1n**
 Run sudo palera1n -e thid_should_crash=0
 Make sure your device is plugged in when entering this command
-When ready, press Enter and follow the on screen instructions to enter DFU mode.
+When ready, press Enter and follow the on-screen instructions to enter DFU mode.
 
 
 ### Installing palera1n - Windows PC
@@ -227,11 +231,11 @@ Follow the on-screen instructions to enter DFU mode.
 ### Troubleshooting tips for common installation issues.
 
 **For Windows Users: **
-If you are trying to use a Virtual Machine software of some sort from Windows (e.g. Virtualbox, VMWare, Windows Subsystem for Linux, etc) you will not succeed with following this guide, and will need to obtain a bootable medium and follow the below steps using that bootable medium.
+If you are trying to use a Virtual Machine software of some sort from Windows (e.g., Virtualbox, VMWare, Windows Subsystem for Linux, etc) you will not succeed with following this guide, and will need to obtain a bootable medium and follow the steps below using that bootable medium.
 
 If you are using a computer with an AMD Ryzen CPU, you will likely run into issues. If you do run into issues, you should use a Mac or a computer with an Intel CPU to follow this guide.
 
-If you are using a USB-C to Lightning cable to do this process, you may run into issues entering into DFU mode
+If you are using a USB-C to Lightning cable to do this process, you may run into issues entering DFU mode
 
 If you do have issues, get a USB-A to Lightning cable and, if necessary, also get a USB-C to USB-A adapter.
 
@@ -239,7 +243,7 @@ A9(X) and earlier devices have an issue where they will get stuck midway through
 
 In the terminal window, press Control + C on your keyboard
 Rerun the command that you just ran
-You'll need to do this every time you rejailbreak your device as well.
+You'll need to do this every time you re-jailbreak your device as well.
 
 
 ## Device Compatibility
