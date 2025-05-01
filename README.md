@@ -19,15 +19,17 @@ ________________________________________________________________________________
 
 **Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 18.1 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
 
+Read More: [iOS 18.5 Jailbreak](https://zeejb.com/jailbreak-ios-18-5/)
+
 
 
 ## Introduction
 
 
 ### Brief overview of the Palera1n Jailbreak tool.
-Palera1n is a semi-untethered jailbreak for iOS 11 - 17.1 (theoretically 17.6.1) / iPadOS 17, iPadOS 18, 18.1, 18.2 The tool was created by Nick Chan (Lead Developer) and the Palera1n team. The tool is based on the checkm8 exploit. This means that the tool is compatible with A11-A8 devices.  The Palera1n jailbreak enables users to customize their iOS devices by installing third-party apps and tweaks. 
+Palera1n is a semi-untethered jailbreak for iOS 11-17.1 (theoretically 17.6.1) and iPadOS 17, 18, 18.1-18.5. Nick Chan, the lead developer, and the Palera1n team created the tool. The tool is based on the checkm8 exploit. This means that the tool is compatible with A11-A8 devices.  The Palera1n jailbreak enables users to customize their iOS devices by installing third-party apps and tweaks. 
 
-After successfully jailbreaking your device, you can install modern package managers such as Sileo, Zebra, and Cydia.  
+After successfully jailbreaking your device, you can install modern package managers such as Sileo, Zebra, or Cydia.  
 
 
 _____________________________________________________________________________________________
@@ -36,25 +38,26 @@ Read More :
 [How to Jailbreak iOS 17 - iOS 17.4.1 & iOS 18.1 beta via unc0ver Jailbreak?](https://github.com/iOS17/unc0ver-jailbreak)
 
 [IOS jailbreak tools and solutions online](https://darkbro.com)
+[iOS 17 - 18.5.1 Jailbreak Tweak Manager ](https://zeejb.com/jailbreak-tweak-master/)
 _____________________________________________________________________________________________
 
 
 ### Purpose and benefits of using the tool.
 
-Palera1n is a jailbreak tool for devices with A8-A11(iPhone X) chips running iOS/iPadOS 15.0 and above(iPadOS18.1). It's important to understand the purposes, benefits, and potential risks before deciding to jailbreak your device.
+Palera1n is a jailbreak tool for devices with A8-A11(iPhone X) chips running iOS/iPadOS 15.0 and above(iPadOS18.1). It's essential to understand the purposes, benefits, and potential risks before deciding to jailbreak your device.
 
 **Purposes:**
 
 **Customization:** Gain access to the root filesystem of your device, allowing you to install tweaks, themes, and apps not available through the official App Store. This can personalize your device's look and feel and add features Apple doesn't offer.
 Advanced features: Unlock functionalities not present in the stock iOS, such as tethering your device to other devices without a carrier plan or recording system audio.
 
-**Development and testing:** Developers can use jailbroken devices to test apps and tweaks before releasing them publicly.
+**Development and testing:** Developers can use jailbroken devices to test apps and tweaks before releasing them to the public.
 
 **Benefits:**
 
 **Increased functionality:** Access features and customizations beyond what Apple provides.
 Greater control: Manage your device more freely and tailor it to your specific needs.
-Explore the iOS ecosystem: Discover third-party apps and tweaks that aren't officially sanctioned by Apple.
+Explore the iOS ecosystem: Discover third-party apps and tweaks that Apple doesn't officially sanction.
 
 ## The Definitive Guide of Palera1n Jailbreak Tool
 
