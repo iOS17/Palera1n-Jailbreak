@@ -2,6 +2,8 @@
 
 The Definitive Guide of Palera1n Jailbreak Tool, iOS & iPadOS 17, iOS 17.1, 17.2, 17.3, 17.4, 17.5, 17.6, 17.7.6, 18, 18.1, 18.2, 18.3, 18.4, 18.5, 18.6 & upcoming iOS 26 beta Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
 
+Read More: [How to Jailbreak iOS 26 Online](https://github.com/iOS17/Jailbreak-iOS-26)
+
 ## Palera1n Jailbreak Guide
 
 This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following this guide, **you will learn** about **its iOS versions and device compatibility**,** how to install it on modern iPhones,iPads & TvOS, its achievements**, and much more. **This guide contains everything you need to start, whether you are a beginner or an expert.**
