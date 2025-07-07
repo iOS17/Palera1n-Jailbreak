@@ -1,6 +1,6 @@
-# Palera1n-Jailbreak iOS 18.4.1, 17.7.6 - iOS 15 / iPadOS/tvOS, 17 (iOS 18)
+# Palera1n-Jailbreak iOS 26, 18.6 beta 2, 17.7.6, iOS 16.7.11 - iOS 15.8.4 (19H390) / iPadOS/tvOS, 17 (iOS 18)
 
-The Definitive Guide of Palera1n Jailbreak Tool, iOS 17, iOS 17.1, 17.2,17.3, 17.4, 17.5.1 & iPadOS 17, 18, 18.1, 18.2, 18.3, 18.4.1 & upcoming 18.5 beta Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
+The Definitive Guide of Palera1n Jailbreak Tool, iOS & iPadOS 17, iOS 17.1, 17.2, 17.3, 17.4, 17.5, 17.6, 17.7.6, 18, 18.1, 18.2, 18.3, 18.4, 18.5, 18.6 & upcoming iOS 26 beta Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
 
 ## Palera1n Jailbreak Guide
 
@@ -8,9 +8,9 @@ This is **a comprehensive guide to the Palera1n Jailbreak tool**. By following t
 
 ___________________________________________________________________________________________________
 
-**[Palera1n Jailbreak Checker Downloader iOS 18.2 beta 2](https://zeejb.com/ai/palera1n-checker/)**
+**[Palera1n Jailbreak Checker Downloader iOS 18.6 - iOS 26 beta 2](https://zeejb.com/ai/palera1n-checker/)**
 
-**iPadOS 18.1 - 18.2 beta 2 Palera1n Jailbreak Status:**
+**iPadOS 18 - 26 beta 2 Palera1n Jailbreak Status:**
 
 ![iOS/iPadOS 18 beta 4 Jailbreak with Palera1n Jailbreak](https://github.com/user-attachments/assets/015da963-deb6-443a-93f1-9ffe3a917611)
 ![iOS/iPadOS 18.2 beta 2 Jailbreak with Palera1n Jailbreak Online](https://github.com/user-attachments/assets/a77cf3a6-7952-4a11-94e8-568b7a9b2d6d)
@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 ### Purpose and benefits of using the tool.
 
-Palera1n is a jailbreak tool for devices with A8-A11(iPhone X) chips running iOS/iPadOS 15.0 and above(iPadOS18.1). It's essential to understand the purposes, benefits, and potential risks before deciding to jailbreak your device.
+Palera1n is a jailbreak tool for devices with A8-A11 (iPhone X) chips running iOS/iPadOS 15.0 and above (iPadOS 18.1). It's essential to understand the purposes, benefits, and potential risks before deciding to jailbreak your device.
 
 **Purposes:**
 
