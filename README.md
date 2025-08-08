@@ -29,7 +29,7 @@ Read More: [iOS 18.5 Jailbreak](https://zeejb.com/jailbreak-ios-18-5/)
 
 
 ### Brief overview of the Palera1n Jailbreak tool.
-Palera1n is a semi-untethered jailbreak for iOS 11-17.1 (theoretically 17.6.1) and iPadOS 17, 18, 18.1-18.5. Nick Chan, the lead developer, and the Palera1n team created the tool. The tool is based on the checkm8 exploit. This means that the tool is compatible with A11-A8 devices.  The Palera1n jailbreak enables users to customize their iOS devices by installing third-party apps and tweaks. 
+Palera1n is a semi-untethered jailbreak for iOS 11-17.1 (theoretically 17.6.1) and iPadOS 17, 18, 18.1-18.7. Nick Chan, the lead developer, and the Palera1n team created the tool. The tool is based on the checkm8 exploit. This means that the tool is compatible with A11-A8 devices.  The Palera1n jailbreak enables users to customize their iOS devices by installing third-party apps and tweaks. 
 
 After successfully jailbreaking your device, you can install modern package managers such as Sileo, Zebra, or Cydia.  
 
