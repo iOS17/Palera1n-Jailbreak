@@ -1,4 +1,4 @@
-The Definitive Guide of Palera1n Jailbreak Tool, iOS & iPadOS 17, iOS 17.1, 17.2, 17.3, 17.4, 17.5, 17.6, 17.7.6, 18, 18.1, 18.2, 18.3, 18.4, 18.5, 18.6 & upcoming iOS 26/27 beta Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data And Alternatives &amp; Working Tweak List
+The Definitive Guide of Palera1n Jailbreak Tool, iOS & iPadOS 17, iOS 17.1, 17.2, 17.3, 17.4, 17.5, 17.6, 17.7.6, 18, 18.1, 18.2, 18.3, 18.4, 18.5, 18.6, 18.7, iOS 26.1 beta 3 & upcoming iOS 26/27 beta Version Compatibility, How To Install Guide, Device Compatibility, Achievements, Research Data, and Alternatives &amp; Working Tweak List
 
 Read More: [How to Jailbreak iOS 26 & its beta Online](https://github.com/iOS17/Jailbreak-iOS-26)
 
